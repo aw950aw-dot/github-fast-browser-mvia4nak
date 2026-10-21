@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">מהיר GitHub</string>
+    <string name="hint_url">הכנס כתובת GitHub או חיפוש...</string>
+    <string name="btn_go">עבור</string>
+    <string name="btn_home">בית</string>
+    <string name="btn_back">הקודם</string>
+    <string name="btn_forward">הבא</string>
+    <string name="btn_refresh">רענן</string>
+    <string name="settings_title">הגדרות וקישורים</string>
+    <string name="settings_desc">כדי שכל קישורי GitHub יפתחו אוטומטי באפליקציה זו:\n1. לחץ על הכפתור למטה למעבר להגדרות מערכת.\n2. בחר \"פתיחת קישורים\" (Open by default).\n3. הוסף את github.com.</string>
+    <string name="btn_open_system_settings">פתח הגדרות מערכת לקישורים</string>
+    <string name="downloading">מוריד קובץ...</string>
+    <string name="download_complete">ההורדה הושלמה בהצלחה!</string>
+    <string name="download_failed">ההורדה נכשלה.</string>
+    <string name="service_running">שירות הרקע של GitHub פועל</string>
+    <string name="service_stopped">שירות הרקע נעצר</string>
+    <string name="btn_toggle_service">הפעל/כבה שירות ברקע</string>
+</resources>
